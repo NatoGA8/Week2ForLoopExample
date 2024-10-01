@@ -15,4 +15,7 @@
     // Wait for the user to press a key before closing the console window
     Console.WriteLine("Press any key to exit...");
     Console.ReadKey();
+    Console.ReadKey();
+    Console.ReadKey();
+
 }
